@@ -1,4 +1,4 @@
-# shuang_11
+# 2019双十一
  
 shuang_11 是阿里双十一活动助手
 
@@ -7,6 +7,12 @@ shuang_11 是阿里双十一活动助手
 
 # 要求
     app是最新的双十一版本
+
+# 下载
+    1.git命令下载
+        git clone git@github.com:MaNongXiaoGang/taobao201911.github.io.git
+    2.百度云下载
+        www
 
 # 使用步骤
     第一步 手机开启开发者模式（设置-设备信息-全部参数-连续点击版本号。不同手机操作不同，自行百度）

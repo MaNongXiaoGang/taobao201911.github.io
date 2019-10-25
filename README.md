@@ -28,7 +28,8 @@ shuang_11 是阿里双十一活动助手
     1.git命令下载
         git clone git@github.com:MaNongXiaoGang/taobao201911.github.io.git
     2.百度云下载
-        链接：https://pan.baidu.com/s/1wK4JlySly4LBkxyOkogWRA 提取码：blfu 
+        链接：https://pan.baidu.com/s/1xm1MMj-Owm7sUmPMGYMpRw 提取码：vjdj 
+
 
 
 

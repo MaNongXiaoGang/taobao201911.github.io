@@ -3,7 +3,7 @@
 shuang_11 是阿里双十一活动助手
 
 # 支持机型
-    目前只支持Android系统小米机型(其它机型需要测试，笔者机型有些，各位可以测试后留言)
+    目前只支持Android系统。小米、华为等机型(其它机型需要测试，笔者机型有些，各位可以测试后留言)
 
 # 要求
     app是最新的双十一版本
@@ -26,7 +26,8 @@ shuang_11 是阿里双十一活动助手
     1.git命令下载
         git clone git@github.com:MaNongXiaoGang/taobao201911.github.io.git
     2.百度云下载
-        链接：https://pan.baidu.com/s/1i1D4CwyMKepShnWkMvoyKA  提取码：cv8f 
+        链接：https://pan.baidu.com/s/1wK4JlySly4LBkxyOkogWRA 提取码：blfu 
+
 
 
 # 使用步骤

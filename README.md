@@ -45,4 +45,4 @@ shuang_11 是阿里双十一活动助手
     5.优酷签到时长三十几分钟，建议最后
     6.必须清除app的推送通知
 
-
+![image](http://github.com/MaNongXiaoGang/taobao201911.github.io/images/20191026112306.jpg)

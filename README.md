@@ -4,10 +4,10 @@ shuang_11 是阿里双十一活动助手
 
 
 # 支持机型
-    目前只支持Android系统。小米、华为等机型(其它机型需要测试，笔者机型有些，各位可以测试后留言)
+    目前只支持Android系统。小米、华为等机型(其它机型需要测试，笔者机型有限，各位可以测试后留言)
 
 # 要求
-    app是最新的双十一版本
+    淘宝版本: 9.1.0
     
 # 目前功能
   ## 淘宝
@@ -28,8 +28,7 @@ shuang_11 是阿里双十一活动助手
     1.git命令下载
         git clone git@github.com:MaNongXiaoGang/taobao201911.github.io.git
     2.百度云下载
-        链接：https://pan.baidu.com/s/1wK4JlySly4LBkxyOkogWRA 提取码：blfu 
-
+        链接：https://pan.baidu.com/s/1OTpTUIuuA-ctI5AuNGh-eA 提取码：tc4j 
 
 
 # 使用步骤
@@ -45,3 +44,5 @@ shuang_11 是阿里双十一活动助手
     4.启动/重启app之前必须清除进程
     5.优酷签到时长三十几分钟，建议最后
     6.必须清除app的推送通知
+
+![image](https://raw.githubusercontent.com/MaNongXiaoGang/taobao201911.github.io/master/images/20191026112306.jpg)

@@ -44,5 +44,6 @@ shuang_11 是阿里双十一活动助手
     4.启动/重启app之前必须清除进程
     5.优酷签到时长三十几分钟，建议最后
     6.必须清除app的推送通知
+    7.第一次使用会自动安装两个应用，需要点击同意
 
 ![image](https://raw.githubusercontent.com/MaNongXiaoGang/taobao201911.github.io/master/images/20191026112306.jpg)
